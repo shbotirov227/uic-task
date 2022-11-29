@@ -35,7 +35,7 @@ const ViewsCard = ({ title, val, val2, up, down, statusColor, status }) => {
 					<tr>
 						{val.map((el, index) => (
 							<td>
-								<span className="val bgc" key={index}>{el}</span>
+								<span className="val" key={index}>{el}</span>
 							</td>
 						))}
 					</tr>

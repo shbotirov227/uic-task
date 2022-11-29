@@ -101,4 +101,9 @@ export const SidebarData = [
 		path: "/signup",
 		icon: <SidebarBtn6 />,
 	},
+	{
+		title: "Help",
+		path: "/help",
+		icon: <SidebarBtn6 />,
+	},
 ];
